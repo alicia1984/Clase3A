@@ -6,9 +6,12 @@
 package clase3a;
 
 /*******************************************************************************
- *
+ *Alicia Villarroel
  * @author LP 13
- */
+ * Fecha:Octubre 26 de 20017
+ * Programa: Clase3A
+ * Responsabilidad: clase principal
+ *****************************************************************************/
 public class Clase3A {
 
     /**
